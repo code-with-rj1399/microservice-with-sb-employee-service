@@ -1,5 +1,7 @@
 # microservice-with-sb-employee-service [Employee Service]
 
+🔗 **For a complete overview of the microservices architecture and setup, please refer to the [Main README](https://github.com/code-with-rj1399/microservice-with-sb-api-gateway/blob/master/README.md).**
+
 The **Employee Service** is a part of the microservices architecture responsible for managing employee-related operations. It registers with the **Eureka Service Registry** and fetches configurations from the **Config Server**.
 
 ## How to Start
@@ -21,6 +23,4 @@ The **Employee Service** is a part of the microservices architecture responsible
 
 ## API Gateway
 
-All APIs are **exposed and accessible** through the **[API Gateway](http://localhost:8083)**. This ensures centralized routing, security, and monitoring.
-
-For a complete overview of the microservices architecture and setup, please refer to the **[API Gateway README](https://github.com/code-with-rj1399/microservice-with-sb-api-gateway/blob/master/README.md)**.  
+All APIs are **exposed and accessible** through the **[API Gateway](http://localhost:8083)**. This ensures centralized routing, security, and monitoring.  
